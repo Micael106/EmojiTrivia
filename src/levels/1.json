@@ -1,0 +1,66 @@
+{
+  "id": 1,
+  "total": 10,
+  "expressions": [
+    {
+      "id": 1,
+      "pt": ["👓 ☀️", "oculos de sol"],
+      "en": ["☀️ 👓", "sunglasses"],
+      "es": ["👓 ☀️", "gafas de sol"]
+    },
+    {
+      "id": 2,
+      "pt": ["🔎 🐠", "procurando nemo"],
+      "en": ["🔎 🐠", "finding nemo"],
+      "es": ["🔎 🐠", "buscando a nemo"]
+    },
+    {
+      "id": 3,
+      "pt": ["📦 🍕", "caixa de pizza"],
+      "en": ["🍕 📦", "pizza box"],
+      "es": ["📦 🍕", "caja de pizza"]
+    },
+    {
+      "id": 4,
+      "pt": ["💋 🇫🇷", "beijo frances"],
+      "en": ["💋 🇫🇷", "kiss french"],
+      "es": ["💋 🇫🇷", "bejo frances"]
+    },
+    {
+      "id": 5,
+      "pt": ["🐶 🥵", "cachorro quente"],
+      "en": ["🌽 🐶", "corn dog"],
+      "es": ["🐶 🥵", "perro caliente"]
+    },
+    {
+      "id": 6,
+      "pt": ["🐶 💂‍♀️", "cao de guarda"],
+      "en": ["⌚️ 🐶", "watch dog"],
+      "es": ["🐶 💂‍♀️", "perro guardián"]
+    },
+    {
+      "id": 7,    
+      "pt": ["🍔 🤴", "burger king"],
+      "en": ["🍔 🤴", "burger king"],
+      "es": ["🍔 🤴", "burger king"]
+    },
+    {
+      "id": 8,
+      "pt": ["🌘 ☀️", "eclipse solar"],
+      "en": ["☀️ 🌘", "solar eclipse"],
+      "es": ["🌘 ☀️", "eclipse solar"]
+    },
+    {
+      "id": 9,
+      "pt": ["⭐️ 🏝", "estrela do mar"],
+      "en": ["⭐️ 🐠", "starfish"],
+      "es": ["⭐️ 🏝", "estrella de mar"]
+    },
+    {
+      "id": 10,
+      "pt": ["☕️ 🌅", "cafe da manhã"],
+      "en": ["☕️ 💔", "coffee break"],
+      "es": ["🥑 🍵 🇲🇽", "guacamole"]
+    }
+  ]
+}
